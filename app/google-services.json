@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489801593780",
+    "project_id": "attraction-fb1ec",
+    "storage_bucket": "attraction-fb1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489801593780:android:23498a3240f91c0f3438e1",
+        "android_client_info": {
+          "package_name": "com.example.attractions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyBcvWOGiOFpf_RmiwddbT4D-PfORGrEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

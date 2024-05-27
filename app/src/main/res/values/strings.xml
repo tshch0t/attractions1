@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">КурскТур</string>
+    <string name="read_db">Read DB</string>
+    <string name="google_maps_key">map_key</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+    <string name="user_name">User name</string>
+    <string name="exit">назад</string>
+    <string name="map">map</string>
+    <string name="logout2">Выйти из аккаунта</string>
+    <string name="map2">Посмотреть на карте</string>
+</resources>
